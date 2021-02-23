@@ -1,4 +1,4 @@
-package vishal;
+package sample;
 
 import static org.junit.Assert.assertTrue;
 

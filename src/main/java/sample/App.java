@@ -1,4 +1,4 @@
-package vishal;
+package sample;
 
 /**
  * Hello world!
